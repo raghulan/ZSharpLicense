@@ -1,0 +1,8 @@
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\Data\Settings.xml
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\DevZone\Log\Log.txt
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\Help\ReadME.txt
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\Help\ReleaseNotes.txt
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\ZSharpLicHelper.dll
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\ZSharpLicHelper.pdb
+R:\Dropbox\GitHub\ZSharpLicense\ZSharpLicHelper\obj\Release\ZSharpLicHelper.dll
+R:\Dropbox\GitHub\ZSharpLicense\ZSharpLicHelper\obj\Release\ZSharpLicHelper.pdb

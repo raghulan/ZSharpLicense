@@ -1,0 +1,13 @@
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\SystemNameMac.exe.config
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\SystemNameMac.exe
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\SystemNameMac.pdb
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\SystemNameMac.csprojResolveAssemblyReference.cache
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\MainWindow.baml
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\MainWindow.g.cs
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\App.g.cs
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\SystemNameMac_MarkupCompile.cache
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\SystemNameMac.g.resources
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\SystemNameMac.Properties.Resources.resources
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\SystemNameMac.csproj.GenerateResource.Cache
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\SystemNameMac.exe
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\SystemNameMac\SystemNameMac\obj\Release\SystemNameMac.pdb

@@ -1,0 +1,69 @@
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.exe.config
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.exe
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.pdb
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\bin\Release\MahApps.Metro.dll
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\bin\Release\System.Windows.Interactivity.dll
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\bin\Release\MahApps.Metro.xml
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\MainWindow.baml
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\MainWindow.g.cs
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\App.g.cs
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator_MarkupCompile.cache
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.g.resources
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.Properties.Resources.resources
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.csproj.GenerateResource.Cache
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.exe
+E:\GoogleDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\ZLibrary\DotNET\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.pdb
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.exe.config
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.exe
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.pdb
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.csprojResolveAssemblyReference.cache
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\MainWindow.baml
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\MainWindow.g.cs
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\App.g.cs
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator_MarkupCompile.cache
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.g.resources
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.Properties.Resources.resources
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.csproj.GenerateResource.Cache
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\ReadME.txt
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.exe
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.pdb
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\MahApps.Metro.dll
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\System.Windows.Interactivity.dll
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\ZSharpGeneralHelper.dll
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\ZSharpGeneralHelper.pdb
+G:\GDrive\Zcodia Technologies (ZT)\Area51\Resources\Development\Libraries-Solutions\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\MahApps.Metro.xml
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.exe.config
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.exe
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.pdb
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\ReadME.txt
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.exe
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.pdb
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\MahApps.Metro.dll
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\System.Windows.Interactivity.dll
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\ZSharpGeneralHelper.dll
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\ZSharpGeneralHelper.pdb
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\bin\Release\MahApps.Metro.xml
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.csprojResolveAssemblyReference.cache
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\MainWindow.baml
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\MainWindow.g.cs
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\App.g.cs
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator_MarkupCompile.cache
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.g.resources
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.Properties.Resources.resources
+R:\Dropbox\Area51\Resources\Development\Libs-Sols\Zsolutions\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.csproj.GenerateResource.Cache
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\bin\Release\LicenseGenerator.exe.config
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.exe
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.pdb
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.csprojResolveAssemblyReference.cache
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\MainWindow.baml
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\MainWindow.g.cs
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\App.g.cs
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator_MarkupCompile.cache
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.g.resources
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.Properties.Resources.resources
+R:\Dropbox\GitHub\ZSharpLicense\LicenseGenerator\LicenseGenerator\obj\Release\LicenseGenerator.csproj.GenerateResource.Cache
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\ReadME.txt
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\LicenseGenerator.exe.config
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\LicenseGenerator.exe
+R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\LicenseGenerator.pdb
