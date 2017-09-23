@@ -1,0 +1,119 @@
+﻿<Controls:MetroWindow  x:Class="LicenseGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="License Generator"  Width="756.515" MinHeight="360" MinWidth="750" MaxWidth="750" >
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseDark.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid Height="481" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="GTISummary" Margin="-10,5,10,0" >
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="51"></ColumnDefinition>
+                <ColumnDefinition Width="143"></ColumnDefinition>
+                <ColumnDefinition Width="10"></ColumnDefinition>
+                <ColumnDefinition Width="414"></ColumnDefinition>
+                <ColumnDefinition Width="auto" MinWidth="105"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="5"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="5"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="5"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="5"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="0"/>
+                <RowDefinition Height="0"></RowDefinition>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="39"/>
+                <RowDefinition Height="6*"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="0*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="0*"/>
+                <RowDefinition Height="0*"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="0"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="38*"/>
+
+            </Grid.RowDefinitions>
+
+            <TextBlock x:Name="lblMachineName" Text="Machine Name " FontSize="12" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,11,0,13" Width="83"></TextBlock>
+            <TextBlock x:Name="lblMachineNameCol" Text=":" Width="10" FontSize="12" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,11,0,13"></TextBlock>
+            <TextBox x:Name="txtMachineName" Margin="1,7,0,4"  Grid.Column="3"  Grid.Row="1"/>
+
+            <TextBlock x:Name="lblMACAddress" Text="MACAddress" FontSize="12" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,12" Width="72"></TextBlock>
+            <TextBlock x:Name="lblMACAddressCol" Text=":" Width="10" FontSize="12" Grid.Column="2" Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,12"></TextBlock>
+            <TextBox x:Name="txtMACAddress" Margin="1,7,0,4" Grid.Column="3" Grid.Row="3"/>
+
+            <TextBlock x:Name="lblCPUId" Text="CPUId" FontSize="12" Grid.Column="1" Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,12" Width="72"></TextBlock>
+            <TextBlock x:Name="lblCPUIdCol" Text=":" Width="10" FontSize="12" Grid.Column="2" Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,12"></TextBlock>
+            <TextBox x:Name="txtCPUId" Margin="1,7,0,4" Grid.Column="3" Grid.Row="5"/>
+
+            <TextBlock x:Name="lblMotherBoardId" Text="MotherBoardId" FontSize="12" Grid.Column="1" Grid.Row="7" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,12" Width="83"></TextBlock>
+            <TextBlock x:Name="lblMotherBoardIdCol" Text=":" Width="10" FontSize="12" Grid.Column="2" Grid.Row="7" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,12"></TextBlock>
+            <TextBox x:Name="txtMotherBoardId" Margin="1,7,0,4" Grid.Column="3" Grid.Row="7"/>
+
+            <TextBlock x:Name="lblDiskId" Text="DiskId" FontSize="12" Grid.Column="1" Grid.Row="9" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,15,0,9" Width="72"/>
+            <TextBlock x:Name="lblDiskIdCol" Text=":" Width="10" FontSize="12" Grid.Column="2" Grid.Row="9" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,15,0,9"/>
+            <TextBox x:Name="txtDiskId" Margin="10,4,0,5" Grid.Column="2" Grid.Row="9" Grid.ColumnSpan="2"/>
+
+            <TextBlock x:Name="lblInventorVersion" Text="Version" FontSize="12" Grid.Column="1" Grid.Row="13" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="16" Margin="0,0,0,8" Width="40"/>
+            <TextBlock x:Name="lblInventorVersionCol" Text=":" Width="10" FontSize="12" Grid.Column="2" Grid.Row="13" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,12"></TextBlock>
+            <TextBox x:Name="txtInventorVersion" Margin="10,5,0,4" Grid.Column="2" Grid.Row="13" PreviewTextInput="NumberValidationTextBox" Grid.ColumnSpan="2" />
+            <TextBlock x:Name="lblInventorVersionexamp" Text="  For Ex:- 2013" FontSize="12" Grid.Column="4" Grid.Row="13" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,12" Width="75"></TextBlock>
+
+            <TextBlock x:Name="lblNoofDays" Text="No of Days " FontSize="12" Grid.Column="1" Grid.Row="15" HorizontalAlignment="Left" VerticalAlignment="Center" Height="22" Margin="0,13,0,4" Width="62" RenderTransformOrigin="0.017,0.306"/>
+            <TextBlock x:Name="lblNoofDaysCol" Text=":" Width="10" FontSize="12" Grid.Column="2" Grid.Row="15" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,10,0,13"/>
+            <TextBox x:Name="txtNoofDays" Margin="10,4,0,8" Grid.Column="2" Grid.Row="15" PreviewTextInput="NumberValidationTextBox" Grid.ColumnSpan="2"/>
+
+            <TextBlock x:Name="lblFilePath" Text="File Path " FontSize="12" Grid.Row="17" VerticalAlignment="Center" Height="16" Margin="0,12,96,8" Grid.Column="1"/>
+            <TextBlock x:Name="lblFilePathCol" Text=":" Width="10" FontSize="12" Grid.Column="2" Grid.Row="17" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="16" Margin="0,0,0,15"/>
+            <TextBox x:Name="txtFilePath" Margin="10,5,0,5" Grid.Column="2" Grid.Row="17" Text="R:\Dropbox\GitHub\ZSharpLicense\ReleasePackage\Lic" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="lblFilePathexamp" Text=" For Ex:- E:\License\" FontSize="12" Grid.Column="4" Grid.Row="17" HorizontalAlignment="Left" VerticalAlignment="Center" Height="16" Margin="0,14,0,10" Width="102"/>
+
+            <Button x:Name="btnSave" Content="Save" Grid.Column="3"  Grid.Row="26"  HorizontalAlignment="Left" Margin="203,8,0,1" VerticalAlignment="Center" Height="26" Width="90" Click="btnSave_Click" />
+            <Button x:Name="btnReset" Content="Reset" Grid.Column="3" Grid.Row="26"  HorizontalAlignment="Right" VerticalAlignment="Center" Height="26" Width="90" Click="btnReset_Click" Margin="0,8,27,1" />
+            <TextBox x:Name="tBox_devCode" Margin="1,6,106,3" Grid.Column="3" Grid.Row="23" Text="devCodehere" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="lblFilePath_Copy" FontSize="12" Grid.Column="1" Grid.Row="23" Margin="0,10,79,0" RenderTransformOrigin="0.42,0.72" Height="22" VerticalAlignment="Top"><Run Text="Dev"/><Run Text=" "/><Run Text="Code"/></TextBlock>
+            <TextBlock x:Name="lblFilePathCol_Copy" Text=":" Width="10" FontSize="12" Grid.Column="2" Grid.Row="23" Margin="2,10,414,0" Height="16" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+
+        </Grid>
+
+        <!--<Grid x:Name="GButton" Grid.Column="1" Grid.Row="9">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btnSave" Content="Save" Grid.Column="1"   HorizontalAlignment="Left" VerticalAlignment="Center" Height="25" Width="90" Click="btnSave_Click" ></Button>
+            <Button x:Name="btnReset" Content="Reset" Grid.Column="2"   HorizontalAlignment="Left" VerticalAlignment="Center" Height="25" Width="90" Click="btnReset_Click" ></Button>
+
+        </Grid>-->
+    </Grid>
+</Controls:MetroWindow >

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseGenerator", "LicenseGenerator\LicenseGenerator.csproj", "{48EDD811-20FE-435B-8B27-A6B4D0574E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZSharpGeneralHelper", "..\..\ZSharpHelpers\ZSharpGeneralHelper\ZSharpGeneralHelper\ZSharpGeneralHelper.csproj", "{941CA4B9-C097-4391-ADFC-61CEF0F18A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZSharpLicHelper", "ZSharpLicHelper\ZSharpLicHelper.csproj", "{3E7503CD-7361-4E90-8175-D8EDC8DF6698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZSharpLicenseTester", "ZSharpLicenseTester\ZSharpLicenseTester.csproj", "{C4B0C6E6-AB56-4D27-914A-744A65CA0B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemNameMac", "SystemNameMac\SystemNameMac\SystemNameMac.csproj", "{1E7EEDC3-C2F1-44BE-8813-5DB69F5442D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48EDD811-20FE-435B-8B27-A6B4D0574E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EDD811-20FE-435B-8B27-A6B4D0574E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EDD811-20FE-435B-8B27-A6B4D0574E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EDD811-20FE-435B-8B27-A6B4D0574E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941CA4B9-C097-4391-ADFC-61CEF0F18A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941CA4B9-C097-4391-ADFC-61CEF0F18A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941CA4B9-C097-4391-ADFC-61CEF0F18A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941CA4B9-C097-4391-ADFC-61CEF0F18A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7503CD-7361-4E90-8175-D8EDC8DF6698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7503CD-7361-4E90-8175-D8EDC8DF6698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7503CD-7361-4E90-8175-D8EDC8DF6698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7503CD-7361-4E90-8175-D8EDC8DF6698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B0C6E6-AB56-4D27-914A-744A65CA0B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B0C6E6-AB56-4D27-914A-744A65CA0B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B0C6E6-AB56-4D27-914A-744A65CA0B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B0C6E6-AB56-4D27-914A-744A65CA0B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7EEDC3-C2F1-44BE-8813-5DB69F5442D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7EEDC3-C2F1-44BE-8813-5DB69F5442D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7EEDC3-C2F1-44BE-8813-5DB69F5442D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7EEDC3-C2F1-44BE-8813-5DB69F5442D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
